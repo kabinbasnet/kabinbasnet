@@ -10,5 +10,4 @@
 - ⚡ Fun fact: watching movies/anime, writing amazing code each and every day 
 
 ********** Who am I ? *************
-
-<img src="![topi](https://user-images.githubusercontent.com/25498167/156890808-82a1366c-7677-4696-b373-f11952d4222f.jpg)">
+![topi](https://user-images.githubusercontent.com/25498167/156890808-82a1366c-7677-4696-b373-f11952d4222f.jpg)
