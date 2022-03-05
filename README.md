@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola, I am @kabinbasnet ! 👋
 
-<!--
-**kabinbasnet/kabinbasnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my own Django project
+- 🌱 I’m currently learning Python Django
+- 👯 I’m looking to collaborate on facebook, instagram, youtube and many other social media.
+- 🤔 I’m looking for help with documentation, devlopers
+- 💬 Ask me about any tech. related stuff 
+- 📫 How to reach me: gmail: kabinbasnet22@gmail.com, facebook: https://www.facebook.com/cobinr/, instagram: https://www.instagram.com/kabin_basnet/
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: watching movies/anime, writing amazing code each and every day 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+********** Who am I ? *************
+<img src="">
