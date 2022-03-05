@@ -7,7 +7,7 @@
 - 💬 Ask me about any tech. related stuff 
 - 📫 How to reach me: gmail: kabinbasnet22@gmail.com, facebook: https://www.facebook.com/cobinr/, instagram: https://www.instagram.com/kabin_basnet/
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours watching movies/anime, remaining hours for writing amazing code each and every day 
+- ⚡ Fun fact: I spend almost 12 hours watching movies/anime/videos, remaining hours for writing amazing code each and every day 
 
 ********** Who am I ? *************
 
