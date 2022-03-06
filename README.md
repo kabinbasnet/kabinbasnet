@@ -1,6 +1,6 @@
 ### Hola, I am @kabinbasnet ! 👋
 
-- 🔭 I’m currently working on my own Django project
+- 🔭 I’m currently working on Django project
 - 🌱 I’m currently learning Python Django
 - 👯 I’m looking to collaborate on facebook, instagram, youtube and many other social media.
 - 🤔 I’m looking for help with documentation and developers
